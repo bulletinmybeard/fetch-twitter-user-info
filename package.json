@@ -14,7 +14,6 @@
     "Git",
     "Twitter",
     "Node.js",
-    "Fetch",
     "APi"
   ],
   "author": "Robin Schulz <hello@rschu.me>",
@@ -27,11 +26,11 @@
     "@types/cheerio": "^0.22.7",
     "@types/node": "^9.4.6",
     "@types/request": "^2.47.0",
-    "bluebird": "^3.5.1",
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.83.0",
-    "typescript": "^2.7.2",
     "underscore": "^1.8.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
 }
