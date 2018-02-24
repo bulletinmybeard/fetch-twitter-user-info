@@ -1,6 +1,6 @@
 {
   "name": "fetch-twitter-user-info-with-node",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Fetch Twitter's user information via Node.js",
   "main": "twitter.ts",
   "scripts": {
